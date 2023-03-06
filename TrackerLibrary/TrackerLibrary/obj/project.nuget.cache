@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lBGNlWafbk1XRGDcYfTLrN2djWXo/DyAKHKMfYOGEUMmpJLcvzqk4vga77PlX+moB1DmTmhah4bHIyoDNUrKLQ==",
+  "dgSpecHash": "eJCDeQolhqlxZEkcBouOeudpTmyzGriagJRdDijyfYsI/gFzJBYCDqscwt/GsxGE8HgdqBEbHf6WC0pT2Y1vlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User1\\Desktop\\TournamentTracker\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj",
+  "projectFilePath": "C:\\Users\\User1\\Desktop\\TournamentApp\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

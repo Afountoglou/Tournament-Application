@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TrackerLibrary
-build_property.ProjectDir = C:\Users\User1\Desktop\TournamentTracker\TrackerLibrary\TrackerLibrary\
+build_property.ProjectDir = C:\Users\User1\Desktop\TournamentApp\TrackerLibrary\TrackerLibrary\
